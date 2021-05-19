@@ -1,0 +1,3 @@
+f 1002 John Doe doe@test.com 123456789 CET 3.94 956.50
+p 1005 Mark Williams mark@test.com 124578963 CST 3.56 980 3.5
+f 1008 Sam Thomas sam@test.com 321654987 CP 3.95 995.75
