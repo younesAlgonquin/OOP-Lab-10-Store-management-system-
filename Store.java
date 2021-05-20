@@ -7,13 +7,6 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 import java.util.ArrayList;
 
-/*
- * Student Name: Younes Boutaleb
- * Lab Professor: Dr. James Mwangi
- * Due Date: April 4, 2021
- * Modified: March 31, 2021
- */
-
 /**
 * This class stores the employee objects in an array of references. 
 * According to their type it calls the appropriate read and print methods and creates a database of employees
