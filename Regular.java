@@ -2,13 +2,6 @@ package Quality;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-/*
- * Student Name: Younes Boutaleb
- * Lab Professor: Dr. James Mwangi
- * Due Date: April 4, 2021
- * Modified: March 31, 2021
- */
-
 /**
 * This class extends Employee class and declares salary variable for the Regular employee
 * It overrides readInfo and printInfo methods
