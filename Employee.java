@@ -2,13 +2,6 @@ package Quality;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-/*
- * Student Name: Younes Boutaleb
- * Lab Professor: Dr. James Mwangi
- * Due Date: April 4, 2021
- * Modified: March 31, 2021
- */
-
 /**
 * This class extends Person class and declares the employee number variable
 * It overrides readInfo and printInfo methods
@@ -22,7 +15,7 @@ public class Employee extends Person {
 //	Method Store.redDetails(); needs to take a Scanner object as a parameter to be able to read the employee type
 //	We need to print the options inside the for loop of Method Store.redDetails(); as we need to display them after each iteration.
 //	The Methods Store.printTitle(); Store.printLine(); and Store.printDetails will be called locally inside Method Store.redDetails(); then we have to declare them private. 
-//	In fact the instructions require that the program should allow the user to print the employees’ details after each iteration
+//	In fact the instructions require that the program should allow the user to print the employeesâ€™ details after each iteration
 
 	
 	/** this is the employees's identification number */
