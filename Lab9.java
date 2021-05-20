@@ -2,14 +2,6 @@ package Quality;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-
-/*
- * Student Name: Younes Boutaleb
- * Lab Professor: Dr. James Mwangi
- * Due Date: April 4, 2021
- * Modified: March 31, 2021
- */
-
 /**
 * This class declare implements main method and test the entire program 
 * it also throws exceptions when a invalid input is entered
